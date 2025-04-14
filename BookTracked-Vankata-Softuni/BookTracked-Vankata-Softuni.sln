@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34031.279
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BookTracked-Vankata-Softuni", "BookTracked-Vankata-Softuni\BookTracked-Vankata-Softuni.csproj", "{18515C6C-5CF0-4EAF-A075-4166E12EDB69}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{18515C6C-5CF0-4EAF-A075-4166E12EDB69}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{18515C6C-5CF0-4EAF-A075-4166E12EDB69}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{18515C6C-5CF0-4EAF-A075-4166E12EDB69}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{18515C6C-5CF0-4EAF-A075-4166E12EDB69}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {60626F77-8A9B-496F-B14E-0B8C239194C5}
+	EndGlobalSection
+EndGlobal
